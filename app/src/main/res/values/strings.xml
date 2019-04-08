@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">生日卡片</string>
+    <array name="button_image">
+        <item>@drawable/button1</item>
+        <item>@drawable/button2</item>
+        <item>@drawable/button3</item>
+        <item>@drawable/button4</item>
+        <item>@drawable/button5</item>
+        <item>@drawable/button6</item>
+    </array>
+    <string name="back_text">確定退出?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <!-- Layout1 -->
+    <string name="FollowingText">
+        確認\n是嗎?\n
+    </string>
+    <string name="QuestionText">
+        請按下確認
+    </string>
+    <string name="yes">確認</string>
+    <string name="no">不確認</string>
+    <string name="Yeah">OK</string>
+    <!-- Layout2 -->
+    <string name="Photo1">照片輪播</string>
+    <string name="Photo2">照片自動切換</string>
+    <array name="Photos">
+        <item>@drawable/play1</item>
+        <item>@drawable/play2</item>
+        <item>@drawable/play3</item>
+        <item>@drawable/play4</item>
+    </array>
+    <!-- Layout3 -->
+    <string name="TogetherTitle">距離2014年11月1日</string>
+    <string name="TogetherText">已經過了</string>
+    <string name="TogetherDay">天</string>
+    <!-- Layout4 -->
+    <string name="ScoreTitle">儲存數字分數</string>
+    <string name="ScoreFeel">請輸入0~100</string>
+    <string name="ScoreHint">0~100</string>
+    <string name="Score">分</string>
+    <string name="ScoreBecause">輸入此數字的原因</string>
+    <string name="ScoreOK">儲存</string>
+    <!-- Layout5 -->
+    <string name="MyFeels1">
+        段落1
+    </string>
+    <string name="MyFeels2">段落二</string>
+    <string name="MyFeels3">段落三</string>
+    <!-- Layout6 -->
+    <string name="Future1">段落一</string>
+    <string name="Future2">段落二</string>
+    <string name="Future3">段落三</string>
+</resources>
